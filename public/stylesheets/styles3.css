@@ -1,0 +1,78 @@
+#body2{
+  background-color: rgb(138,153,160);
+}
+#mainNav {
+  background-color: rgb(48,78,91);
+  border-bottom: rgb(48,78,91);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+#button1{
+  background-color: white;
+}
+#ColorChange {
+	color: rgb(255,255,255);
+  font-weight: 200;
+
+}
+#ColorChange:hover {
+	color: rgb(255,29,0);
+}
+.navbar .nav > li > a {
+    color: rgb(255,255,255);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+.navbar .nav > li > a:hover {
+    color: rgb(255,29,0);
+}
+#form{
+  background-color: rgb(255,255,255);
+  margin-top: 100px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+}
+#LogIn:hover{
+  background-color: rgb(48,78,91);
+  color: white;
+}
+#Bkgcolor {
+  background-color: rgb(229,4,19);
+  margin-top: 100px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  color: rgb(255,255,255);
+}
+#signUp:hover{
+  background-color: rgb(48,78,91);
+  color: white;
+}
+#FN{
+  font-weight: 500;
+}
+#UN{
+  font-weight: 500;
+}
+#email{
+  font-weight: 500;
+}
+#pwd{
+  font-weight: 500;
+}
+#footer{
+  background-color: rgb(41,41,41);
+  color:white;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  padding-top: 10px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+}

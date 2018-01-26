@@ -1,0 +1,400 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(255,255,255);
+}
+#mainNav {
+  background-color: rgb(48,78,91);
+  border-bottom: rgb(48,78,91);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+.main-color-bg2{
+  background-color: rgb(234,77,63) !important;
+  border-color: rgb(234,77,63) !important;
+  color: rgb(255,255,255);
+}
+#button1{
+  background-color: white;
+}
+#ColorChange {
+	color: rgb(255,255,255);
+
+}
+#ColorChange:hover {
+	color: rgb(234,77,63);
+}
+.navbar .nav > li > a {
+    color: rgb(255,255,255);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+.navbar .nav > li > a:hover {
+    color: rgb(234,77,63);
+}
+#form{
+  background-color: rgb(255,255,255);
+  margin-top: 100px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+}
+#LogIn:hover{
+  background-color: rgb(48,78,91);
+  color: white;
+}
+#Bkgcolor {
+  background-color: rgb(229,4,19);
+  margin-top: 100px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  color: rgb(255,255,255);
+}
+#signUp:hover{
+  background-color: rgb(48,78,91);
+  color: white;
+}
+#FN{
+  font-weight: 500;
+}
+#UN{
+  font-weight: 500;
+}
+#email{
+  font-weight: 500;
+}
+#pwd{
+  font-weight: 500;
+}
+.jumbotron{
+  background-color: rgb(255,255,255);
+}
+#test{
+  width:175px;
+  height:200px;
+  padding-top: 20px;
+}
+.jumbotron > .col-sm-6 > h1{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+}
+.main-color-bg{
+  background-color: rgb(234,77,63) !important;
+  border-color: rgb(234,77,63) !important;
+  color: rgb(255,255,255)!important;
+}
+/* Progress Bars */
+.progress-bar{
+  background-color: rgb(221,4,18);
+  color: rgb(255,255,255);
+}
+.well > h4{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+.well{
+  height: 430px;
+}
+#container {
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+}
+#progress{
+  background-color: rgb(48,78,91);
+  color: rgb(255,255,255);
+}
+.progress-bar{
+  background-color: rgb(255,255,255);
+  color: rgb(41,41,41);
+}
+#dont{
+  font-size: 12px;
+}
+#badgeActive{
+  background-color: rgb(48,78,91);
+  color: rgb(255,255,255);
+}
+#FacebookLogo2{
+  color: rgb(255,255,255);
+}
+#blogIcon{
+  color: rgb(249, 105, 14);
+}
+#translateIcon{
+  color: rgb(48,78,91);
+}
+#newLI{
+  color: rgb(0,119,181);
+}
+#LinkedIn2{
+  color: rgb(0,119,181);
+}
+#Twitter2{
+  color: rgb(0, 172, 237);
+}
+#pencil{
+  color: rgb(195,131,76);
+}
+#shareLI{
+  color: rgb(134,136,138);
+}
+#inMail{
+  color: rgb(0,119,181);
+}
+#likeFB{
+  color: rgb(109, 132, 180);
+}
+#fbPencil{
+  color: rgb(59,89,152);
+}
+#likeBTN{
+  color:rgb(255,255,255);
+  background-color: rgb(59,89,152);
+  text-decoration: none;
+}
+#likeBTN:hover{
+  color: rgb(59,89,152);
+  background-color: rgb(255,255,255);
+  text-decoration: none;
+}
+#shareButton{
+  color:rgb(255,255,255);
+  background-color: rgb(59,89,152);
+  text-decoration: none;
+}
+#shareButton:hover{
+  color: rgb(59,89,152);
+  background-color: rgb(255,255,255);
+  text-decoration: none;
+}
+#FacebookLogo{
+  color: rgb(59,89,152);
+}
+#LinkedIn{
+  color: rgb(0,119,181);
+}
+#Twitter{
+  color: rgb(0, 172, 237);
+}
+#Facebook{
+  color: rgb(109, 132, 180);
+}
+#LI{
+  color: rgb(134,136,138);
+}
+#TwT{
+  color: rgb(0, 172, 237);
+}
+#tweet{
+  color: rgb(0, 172, 237);
+}
+#heart{
+  color: rgb(221,4,18);
+}
+#retweet{
+  color: rgb(0,230,64);
+}
+/* if needed use cmd + shift + r */
+#Bit{
+  color: rgb(247,147,26);
+}
+#ICO{
+  padding-top: 10px;
+}
+#Title{
+  padding-top: 15px;
+}
+#demo{
+  font-family: 'Roboto', sans-serif;
+  font-size: 400%;
+  padding-top: 10px;
+}
+#indent{
+  text-indent: 50px;
+  font-weight: 400;
+}
+
+#list2 {
+	font-weight: 400;
+}
+#listTxt > li{
+	font-weight: 450;
+  	font-size: 15px;
+}
+
+#LinBadge{
+ font-size: 25px; 
+}
+
+#footer{
+  background-color: rgb(41,41,41);
+  color:white;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  padding-top: 10px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+}
+@media screen and (max-width: 320px) {
+  #ColorChange{
+    font-size: 16px;
+  }
+  .help-tip{
+      position: absolute;
+      right: 18px;
+      text-align: center;
+      background-color: #BCDBEA;
+      border-radius: 50%;
+      width: 24px;
+      height: 24px;
+      font-size: 14px;
+      line-height: 26px;
+      cursor: default;
+  }
+}
+@media screen and (max-width: 414px) {
+  .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #ffffff;
+  }
+  .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+  .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #ffffff;
+  }
+  .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #ffffff;
+    background-color: rgb(234,77,63) !important;
+    border-color: rgb(234,77,63) !important;
+  }
+  header{
+    padding-top: 50px;
+  }
+  #test{
+    width:300px;
+  	height: 200px;
+  }
+  .help-tip{
+      position: absolute;
+      right: 18px;
+      text-align: center;
+      background-color: #BCDBEA;
+      border-radius: 50%;
+      width: 24px;
+      height: 24px;
+      font-size: 14px;
+      line-height: 26px;
+      cursor: default;
+  }
+}
+@media (max-width: 575px) {
+  .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #ffffff;
+  }
+  .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+  .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #ffffff;
+  }
+  .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #ffffff;
+    background-color: rgb(234,77,63) !important;
+    border-color: rgb(234,77,63) !important;
+  }
+  .help-tip{
+      position: absolute;
+      right: 18px;
+      text-align: center;
+      background-color: #BCDBEA;
+      border-radius: 50%;
+      width: 24px;
+      height: 24px;
+      font-size: 14px;
+      line-height: 26px;
+      cursor: default;
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #ffffff;
+  }
+  .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+  .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #ffffff;
+  }
+  .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #ffffff;
+    background-color: rgb(234,77,63) !important;
+    border-color: rgb(234,77,63) !important;
+  }
+}
+@media screen and (max-width: 768px) {
+  #test{
+    padding-right: 125px;
+    padding-left: -100px;
+  }
+  #mainNav{
+    font-size: 10px;
+    
+  }
+  .help-tip{
+      position: absolute;
+      right: 18px;
+      text-align: center;
+      background-color: #BCDBEA;
+      border-radius: 50%;
+      width: 24px;
+      height: 24px;
+      font-size: 14px;
+      line-height: 26px;
+      cursor: default;
+  }
+}
+
+@media (max-width: 991px) {
+  .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #ffffff;
+  }
+  .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+  .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #ffffff;
+  }
+  .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #ffffff;
+    background-color: rgb(234,77,63) !important;
+    border-color: rgb(234,77,63) !important;
+  }
+}
+
+@media (max-width: 1199px) {
+  .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #ffffff;
+  }
+  .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+  .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #ffffff;
+  }
+  .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #ffffff;
+    background-color: rgb(234,77,63) !important;
+    border-color: rgb(234,77,63) !important;
+  }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+  color: #ffffff;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+  color: #ffffff;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+  color: #ffffff;
+  background-color: rgb(234,77,63) !important;
+  border-color: rgb(234,77,63) !important;
+}
